@@ -1,0 +1,5 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Adapter\obj\Debug\Adapter.pdb

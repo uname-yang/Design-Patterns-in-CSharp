@@ -1,0 +1,5 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\bin\Debug\Bridge.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\bin\Debug\Bridge.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.pdb

@@ -1,0 +1,5 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Composite\bin\Debug\Composite.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Composite\bin\Debug\Composite.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Composite\obj\Debug\Composite.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Composite\obj\Debug\Composite.pdb
