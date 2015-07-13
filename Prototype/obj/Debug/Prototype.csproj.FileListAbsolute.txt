@@ -1,0 +1,5 @@
+Y:\WorkStation\Design-Patterns-in-CSharp\Prototype\bin\Debug\Prototype.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Prototype\bin\Debug\Prototype.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\Prototype\obj\Debug\Prototype.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Prototype\obj\Debug\Prototype.pdb

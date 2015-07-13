@@ -3,3 +3,8 @@ C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Stat
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\State\bin\Debug\State.pdb
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\State\obj\Debug\State.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\State\obj\Debug\State.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\State\bin\Debug\State.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\State\bin\Debug\State.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\State\obj\Debug\State.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\State\obj\Debug\State.pdb

@@ -1,0 +1,10 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Proxy\bin\Debug\Proxy.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Proxy\bin\Debug\Proxy.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Proxy\obj\Debug\Proxy.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Proxy\obj\Debug\Proxy.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Proxy\bin\Debug\Proxy.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Proxy\bin\Debug\Proxy.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\Proxy\obj\Debug\Proxy.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Proxy\obj\Debug\Proxy.pdb

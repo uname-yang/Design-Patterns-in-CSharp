@@ -3,3 +3,8 @@ C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Fact
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\FactoryMethod\bin\Debug\FactoryMethod.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\FactoryMethod\bin\Debug\FactoryMethod.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\FactoryMethod\obj\Debug\FactoryMethod.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\FactoryMethod\obj\Debug\FactoryMethod.pdb

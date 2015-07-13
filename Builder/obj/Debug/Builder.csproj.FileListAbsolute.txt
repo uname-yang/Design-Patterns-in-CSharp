@@ -3,3 +3,8 @@ C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Buil
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Builder\bin\Debug\Builder.pdb
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Builder\obj\Debug\Builder.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Builder\obj\Debug\Builder.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Builder\bin\Debug\Builder.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Builder\bin\Debug\Builder.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\Builder\obj\Debug\Builder.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Builder\obj\Debug\Builder.pdb

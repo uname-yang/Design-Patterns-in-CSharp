@@ -1,0 +1,10 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Flyweight\obj\Debug\Flyweight.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Flyweight\bin\Debug\Flyweight.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Flyweight\bin\Debug\Flyweight.pdb
+Y:\WorkStation\Design-Patterns-in-CSharp\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+Y:\WorkStation\Design-Patterns-in-CSharp\Flyweight\obj\Debug\Flyweight.exe
+Y:\WorkStation\Design-Patterns-in-CSharp\Flyweight\obj\Debug\Flyweight.pdb
