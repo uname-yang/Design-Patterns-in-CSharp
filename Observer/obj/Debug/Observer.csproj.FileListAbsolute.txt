@@ -1,0 +1,5 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Observer\bin\Debug\Observer.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Observer\bin\Debug\Observer.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Observer\obj\Debug\Observer.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Observer\obj\Debug\Observer.pdb
