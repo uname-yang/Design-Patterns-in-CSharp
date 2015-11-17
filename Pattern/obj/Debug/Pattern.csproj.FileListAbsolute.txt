@@ -1,5 +1,4 @@
-Y:\WorkStation\Design-Patterns-in-CSharp\Pattern\bin\Debug\Pattern.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Pattern\bin\Debug\Pattern.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Pattern\obj\Debug\Pattern.csprojResolveAssemblyReference.cache
-Y:\WorkStation\Design-Patterns-in-CSharp\Pattern\obj\Debug\Pattern.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Pattern\obj\Debug\Pattern.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Pattern\bin\Debug\Pattern.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Pattern\bin\Debug\Pattern.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Pattern\obj\Debug\Pattern.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Pattern\obj\Debug\Pattern.pdb

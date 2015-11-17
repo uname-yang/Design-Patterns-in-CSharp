@@ -1,10 +1,4 @@
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Singleton\bin\Debug\Singleton.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Singleton\bin\Debug\Singleton.pdb
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Singleton\obj\Debug\Singleton.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Singleton\obj\Debug\Singleton.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Singleton\bin\Debug\Singleton.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Singleton\bin\Debug\Singleton.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
-Y:\WorkStation\Design-Patterns-in-CSharp\Singleton\obj\Debug\Singleton.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Singleton\obj\Debug\Singleton.pdb

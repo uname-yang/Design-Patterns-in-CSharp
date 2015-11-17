@@ -1,5 +1,4 @@
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Strategy\bin\Debug\Strategy.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Strategy\bin\Debug\Strategy.pdb
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Strategy\obj\Debug\Strategy.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Strategy\obj\Debug\Strategy.pdb

@@ -1,0 +1,4 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Template\bin\Debug\Template.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Template\bin\Debug\Template.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Template\obj\Debug\Template.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Template\obj\Debug\Template.pdb

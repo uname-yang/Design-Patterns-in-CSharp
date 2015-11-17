@@ -1,10 +1,4 @@
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Facade\bin\Debug\Facade.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Facade\bin\Debug\Facade.pdb
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Facade\obj\Debug\Facade.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Facade\obj\Debug\Facade.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Facade\bin\Debug\Facade.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Facade\bin\Debug\Facade.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
-Y:\WorkStation\Design-Patterns-in-CSharp\Facade\obj\Debug\Facade.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Facade\obj\Debug\Facade.pdb

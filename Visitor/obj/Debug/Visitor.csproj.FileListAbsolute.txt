@@ -1,0 +1,4 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Visitor\bin\Debug\Visitor.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Visitor\bin\Debug\Visitor.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Visitor\obj\Debug\Visitor.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Visitor\obj\Debug\Visitor.pdb

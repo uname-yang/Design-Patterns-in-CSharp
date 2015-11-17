@@ -1,0 +1,4 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Memento\bin\Debug\Memento.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Memento\bin\Debug\Memento.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Memento\obj\Debug\Memento.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Memento\obj\Debug\Memento.pdb

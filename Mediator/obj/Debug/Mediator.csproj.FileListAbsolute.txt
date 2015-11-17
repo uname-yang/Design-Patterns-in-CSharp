@@ -1,0 +1,4 @@
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Mediator\bin\Debug\Mediator.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Mediator\bin\Debug\Mediator.pdb
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Mediator\obj\Debug\Mediator.exe
+C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Mediator\obj\Debug\Mediator.pdb

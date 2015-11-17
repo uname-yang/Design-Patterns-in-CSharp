@@ -1,4 +1,3 @@
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Command\bin\Debug\Command.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Command\bin\Debug\Command.pdb
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Command\obj\Debug\Command.exe

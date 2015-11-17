@@ -1,10 +1,4 @@
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\AbstractFactory\bin\Debug\AbstractFactory.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\AbstractFactory\bin\Debug\AbstractFactory.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\AbstractFactory\bin\Debug\AbstractFactory.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
-Y:\WorkStation\Design-Patterns-in-CSharp\AbstractFactory\obj\Debug\AbstractFactory.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\AbstractFactory\obj\Debug\AbstractFactory.pdb

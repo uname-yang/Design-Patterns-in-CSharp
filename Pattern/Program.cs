@@ -9,6 +9,9 @@ namespace Pattern
     {
         static void Main(string[] args)
         {
+
         }
     }
+
+
 }

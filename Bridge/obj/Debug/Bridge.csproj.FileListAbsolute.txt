@@ -1,10 +1,4 @@
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\bin\Debug\Bridge.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\bin\Debug\Bridge.pdb
-C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.exe
 C:\Users\p140024\Documents\Visual Studio 2012\Projects\设计模式\Pattern\Bridge\obj\Debug\Bridge.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Bridge\bin\Debug\Bridge.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Bridge\bin\Debug\Bridge.pdb
-Y:\WorkStation\Design-Patterns-in-CSharp\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
-Y:\WorkStation\Design-Patterns-in-CSharp\Bridge\obj\Debug\Bridge.exe
-Y:\WorkStation\Design-Patterns-in-CSharp\Bridge\obj\Debug\Bridge.pdb

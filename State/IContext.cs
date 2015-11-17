@@ -10,6 +10,7 @@ namespace State
         double getBalance();
         void setBalance(double balance);
         void setState(State state);
+
         void withdraw(double amount);
         void deposit(double amount);
         void computeInterest();
